@@ -43,11 +43,3 @@ it uses an event-driven, non-blocking I/O model that makes it lightweight and ef
 ## Developing
 
 A simple REST end-point.
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
